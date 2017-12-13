@@ -1,0 +1,190 @@
+<Solution>
+  <PropertyGroup Name="zjqp" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="apps">
+          <Folder Name="doudizhu">
+            <Folder Name="doudizhucsb" />
+            <Folder Name="doudizhupng" />
+          </Folder>
+          <Folder Name="niuniu">
+            <Folder Name="niuniucsb" />
+            <Folder Name="niuniupng" />
+          </Folder>
+          <Folder Name="paodekuai">
+            <Folder Name="paodekuaicsb" />
+            <Folder Name="paodekuaipng" />
+          </Folder>
+          <Folder Name="wakeng">
+            <Folder Name="wakengcsb" />
+            <Folder Name="wakengpng" />
+          </Folder>
+        </Folder>
+        <Folder Name="audio">
+          <Folder Name="doudizhu" />
+          <Folder Name="niuniu" />
+          <Folder Name="paodekuai" />
+          <Folder Name="wakeng" />
+        </Folder>
+        <Folder Name="common">
+          <Folder Name="commoncsb">
+            <Project Name="GameHomeScene.csd" Type="Layer" />
+            <Project Name="HomeActivityView.csd" Type="Layer" />
+            <Project Name="HomeBottomBarNode.csd" Type="Node" />
+            <Project Name="HomeCenterNode.csd" Type="Node" />
+            <Project Name="HomeGameAppCell.csd" Type="Node" />
+            <Project Name="HomeJoinUsView.csd" Type="Layer" />
+            <Project Name="HomeMessageView.csd" Type="Layer" />
+            <Project Name="HomePlayHistoryView.csd" Type="Layer" />
+            <Project Name="HomeShareGetDiamondView.csd" Type="Layer" />
+            <Project Name="HomeUpNode.csd" Type="Node" />
+            <Project Name="PayMethodView.csd" Type="Layer" />
+            <Project Name="ShopView.csd" Type="Layer" />
+            <Project Name="ShopViewCell.csd" Type="Node" />
+            <Project Name="WeChatLinkView.csd" Type="Layer" />
+            <Project Name="ScoreExchangeView.csd" Type="Layer" />
+            <Project Name="GetScoreVIewCell.csd" Type="Node" />
+            <Project Name="GetScoreHostoryView.csd" Type="Layer" />
+            <Project Name="GetScoreHostoryViewCell.csd" Type="Node" />
+          </Folder>
+          <Folder Name="commonpng">
+            <Image Name="1.png" />
+            <Image Name="adla.png" />
+            <Image Name="baoshi.png" />
+            <Image Name="beijing.png" />
+            <Image Name="beijing2.png" />
+            <Image Name="beijing22.png" />
+            <Image Name="beijing23.png" />
+            <Image Name="blue_dhp.png" />
+            <Image Name="chengming.png" />
+            <Image Name="daluoding.png" />
+            <Image Name="ddz_bt_weixinzhifu.png" />
+            <Image Name="ddz_bt_weixinzhifudi.png" />
+            <Image Name="ddz_chengweidaili.png" />
+            <Image Name="ddz_dianjifenxiang.png" />
+            <Image Name="ddz_dianjifenxiang1.png" />
+            <Image Name="ddz_shangchenganniu.png" />
+            <Image Name="ddz_shangchenganniu1.png" />
+            <Image Name="ddz_shangchengdi.png" />
+            <Image Name="ddz_shangchengdikuang.png" />
+            <Image Name="ddz_shangchengfangdi.png" />
+            <Image Name="ddz_shangchengyuandi.png" />
+            <Image Name="ddz_shangchengzuanshi1.png" />
+            <Image Name="ddz_shangchengzuanshi2.png" />
+            <Image Name="ddz_shangchengzuanshi3.png" />
+            <Image Name="ddz_shangchengzuanshi4.png" />
+            <Image Name="ddz_tanchuang_bangdingweixin.png" />
+            <Image Name="ddz_xiangqing_guanbi.png" />
+            <Image Name="diban1.png" />
+            <Image Name="diban2.png" />
+            <Image Name="diban24.png" />
+            <Image Name="diban3.png" />
+            <Image Name="diban31.png" />
+            <Image Name="diban32.png" />
+            <Image Name="diban321.png" />
+            <Image Name="diban322.png" />
+            <Image Name="diban323.png" />
+            <Image Name="diban33.png" />
+            <Image Name="diban332.png" />
+            <Image Name="diban333.png" />
+            <Image Name="diban34.png" />
+            <Image Name="diban36.png" />
+            <Image Name="diban4.png" />
+            <Image Name="diban41.png" />
+            <Image Name="diban42.png" />
+            <Image Name="diban5.png" />
+            <Image Name="diban52.png" />
+            <Image Name="diban521.png" />
+            <Image Name="diban6.png" />
+            <Image Name="diban7.png" />
+            <Image Name="dibankuang.png" />
+            <Image Name="dibukuang.png" />
+            <Image Name="dibukuang2.png" />
+            <Image Name="dou1.png" />
+            <Image Name="dou2.png" />
+            <Image Name="dou3.png" />
+            <Image Name="dou4.png" />
+            <Image Name="HelloWorld.png" />
+            <Image Name="jianglidi.png" />
+            <Image Name="jinbi.png" />
+            <Image Name="jinbi_kuang.png" />
+            <Image Name="jinbi2.png" />
+            <Image Name="kadi.png" />
+            <Image Name="kakuang.png" />
+            <Image Name="katou1.png" />
+            <Image Name="katou2.png" />
+            <Image Name="katou3.png" />
+            <Image Name="katou4.png" />
+            <Image Name="liaotiandiban.png" />
+            <Image Name="liaotiankuang.png" />
+            <Image Name="liaotianshangdi.png" />
+            <Image Name="loaddi.png" />
+            <Image Name="loading....png" />
+            <Image Name="lv999_0032.png" />
+            <Image Name="maoding.png" />
+            <Image Name="mianbankuang1.png" />
+            <Image Name="mianbankuang2.png" />
+            <Image Name="mj_21.png" />
+            <Image Name="mj_22.png" />
+            <Image Name="mj_23.png" />
+            <Image Name="mj_24.png" />
+            <Image Name="mj_25.png" />
+            <Image Name="mj_26.png" />
+            <Image Name="mj_27.png" />
+            <Image Name="mj_28.png" />
+            <Image Name="mj_29.png" />
+            <Image Name="mj_91.png" />
+            <Image Name="mj_bg1.png" />
+            <Image Name="mj_bg1_lai.png" />
+            <Image Name="mj_bg10.png" />
+            <Image Name="mj_bg2.png" />
+            <Image Name="mj_bg2_lai.png" />
+            <Image Name="mj_bg3.png" />
+            <Image Name="mj_bg3_lai.png" />
+            <Image Name="mj_bg4.png" />
+            <Image Name="mj_bg5.png" />
+            <Image Name="mj_bg6.png" />
+            <Image Name="mj_bg7.png" />
+            <Image Name="mj_bg8.png" />
+            <Image Name="mj_bg9.png" />
+            <Image Name="n_bt_fangjiahaoweidianji.png" />
+            <Image Name="n_bt_queding.png" />
+            <Image Name="n_bt_queding1.png" />
+            <Image Name="n_bt_quxiao.png" />
+            <Image Name="n_bt_quxiao1.png" />
+            <Image Name="qiandao.png" />
+            <Image Name="qizibing.png" />
+            <Image Name="qizimian.png" />
+            <Image Name="rongyu.png" />
+            <Image Name="rongyutiao.png" />
+            <Image Name="shangdi.png" />
+            <Image Name="shuxingbian.png" />
+            <Image Name="shuxingdi.png" />
+            <Image Name="shuxingdoukuang.png" />
+            <Image Name="shuzidi.png" />
+            <Image Name="skill_1.png" />
+            <Image Name="skill_2.png" />
+            <Image Name="skill_3.png" />
+            <Image Name="skill_4.png" />
+            <Image Name="skill_5.png" />
+            <Image Name="skill_6.png" />
+            <Image Name="taitoukuang.png" />
+            <Image Name="tiaodi.png" />
+            <Image Name="tiaokuang.png" />
+            <Image Name="tiaotou1.png" />
+            <Image Name="tiaotou2.png" />
+            <Image Name="tilitiao.png" />
+            <Image Name="tishidi.png" />
+            <Image Name="ui_bt_ihping_2.png" />
+            <Image Name="ui_loaddi.png" />
+            <Image Name="ui_loadkuang.png" />
+            <Image Name="youjian.png" />
+            <Image Name="zuanshi.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="fonts" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

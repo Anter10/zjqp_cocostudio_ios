@@ -1,0 +1,42 @@
+<Solution>
+  <PropertyGroup Name="NewCocosProject" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="apps">
+          <Folder Name="doudizhu">
+            <Folder Name="doudizhucsb" />
+            <Folder Name="doudizhupng" />
+          </Folder>
+          <Folder Name="niuniu">
+            <Folder Name="niuniucsb" />
+            <Folder Name="niuniupng" />
+          </Folder>
+          <Folder Name="paodekuai">
+            <Folder Name="paodekuaicsb" />
+            <Folder Name="paodekuaipng" />
+          </Folder>
+          <Folder Name="wakeng">
+            <Folder Name="wakengcsb" />
+            <Folder Name="wakengpng" />
+          </Folder>
+        </Folder>
+        <Folder Name="audio">
+          <Folder Name="doudizhu" />
+          <Folder Name="niuniu" />
+          <Folder Name="paodekuai" />
+          <Folder Name="wakeng" />
+        </Folder>
+        <Folder Name="common">
+          <Folder Name="commoncsb">
+            <File Name="GameHomeScene.csb" />
+          </Folder>
+          <Folder Name="commonpng">
+            <Image Name="HelloWorld.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="fonts" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
